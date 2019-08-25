@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['goal_357',['Goal',['../class_users_1_1_models_1_1_post_type.html#ae34a08a0f59bac3853fde0251fdb2d37',1,'Users::Models::PostType']]],
+  ['goal_5fid_358',['Goal_Id',['../class_users_1_1_models_1_1_goal.html#aef70157925908b4519a5ad6cf2e78e57',1,'Users.Models.Goal.Goal_Id()'],['../class_users_1_1_models_1_1_post.html#aa3136979443d6d5321216faf757d9621',1,'Users.Models.Post.Goal_Id()'],['../class_users_1_1_models_1_1_progress.html#a58de9249fe2d3ca65998638cc3e68b6d',1,'Users.Models.Progress.Goal_Id()'],['../class_users_1_1_web_a_p_i_1_1_controllers_1_1_goal_controller_1_1_build_goal_progress.html#a76345e42f1f4c3a19f9a227b722223b4',1,'Users.WebAPI.Controllers.GoalController.BuildGoalProgress.Goal_Id()'],['../class_users_1_1_web_a_p_i_1_1_controllers_1_1_goal_controller_1_1_build_activity.html#ad997caa43f81e67d95903b9211199360',1,'Users.WebAPI.Controllers.GoalController.BuildActivity.Goal_Id()']]],
+  ['goal_5flevel_359',['Goal_Level',['../class_users_1_1_models_1_1_progress.html#aa3c14fa909892c8791268cd9af4bf19d',1,'Users::Models::Progress']]],
+  ['goal_5ftitle_360',['Goal_Title',['../class_users_1_1_models_1_1_goal.html#a44b915e1eec075edd4246bb876afeb4e',1,'Users.Models.Goal.Goal_Title()'],['../class_users_1_1_web_a_p_i_1_1_controllers_1_1_goal_controller_1_1_build_goal.html#a0760ec0edea02c8ca150a531da2cccbd',1,'Users.WebAPI.Controllers.GoalController.BuildGoal.Goal_Title()']]]
+];
